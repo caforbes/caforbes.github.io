@@ -12,6 +12,10 @@ My linguistic research is in formal morphosyntax and field linguistic research o
   - NEH-NSF Documenting Endangered Languages Fellow (2020-2021)
   - SSHRC Postdoctoral Fellow (2018-2020)
 
+## Affiliations
+- [Gitksan Research Lab @ UBC](https://blogs.ubc.ca/gitksanlab/)
+- [Association of Linguists for Documentation and Revitalization](https://aldr.org/)
+
 ## Education
 - PhD, University of Toronto (2018)
 - MA, University of Toronto (2013)
