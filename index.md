@@ -1,5 +1,3 @@
-# Dr. Clarissa :)
-
 I am an independent researcher in the area of linguistics, language documentation, and language technology, specializing in Indigenous languages and low-resource contexts. My skills and experience include backend web development (Python, Ruby) and technical/educational writing for diverse audiences.
 
 Currently, I work as a technology associate for the BC First Peoples' Cultural Council, to support the use and ongoing development of FirstVoices (a language platform and archive for BC Indigenous communities).
@@ -8,9 +6,8 @@ My linguistic research is in formal morphosyntax and field linguistic research o
 
 ## Positions
 - Tech Associate - First People's Cultural Council
-- Postdoctoral Fellow - University of Arizona
-  - NEH-NSF Documenting Endangered Languages Fellow (2020-2021)
-  - SSHRC Postdoctoral Fellow (2018-2020)
+- Postdoctoral Fellow (NEH-NSF Documenting Endangered Languages Fellow, 2020-21) - University of Arizona
+- Postdoctoral Fellow (SSHRC 2018-20) - University of Arizona
 
 ## Affiliations
 - [Gitksan Research Lab @ UBC](https://blogs.ubc.ca/gitksanlab/)
