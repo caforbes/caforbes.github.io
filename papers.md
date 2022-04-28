@@ -20,5 +20,6 @@
 
 ## Manuscripts
 
+- 'Nit g̱anwilt: Thirty-six Gitksan stories. (authors B. Sennott, H. Hill, V. Gogag; other editors: Henry Davis, Michael David Schwan, UBC Gitksan Research Lab)
 - Predicate raising and V1 orders in Interior Tsimshianic. ([lingbuzz](https://ling.auf.net/lingbuzz/005495))
 - On ergative agreement, case competition, and Agree. *Squib*
