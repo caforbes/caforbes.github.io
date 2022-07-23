@@ -1,6 +1,6 @@
 I am an independent researcher in the area of linguistics and language technology, specializing in Indigenous languages and low-resource contexts. My skills and experience include natural language data analysis, backend engineering (Python, Ruby), and technical, analytical, and educational writing.
 
-[Research Papers](https://caforbes.github.io/papers)
+[Research Papers](/papers)
 
 Currently, I work as the technology coordinator for the First Peoples' Cultural Council of British Columbia, organizing and supporting the ongoing development of [FirstVoices](https://www.firstvoices.com/) (a language platform and archive for BC Indigenous communities). In addition to project and user support, I get to apply my skills in data analysis and engineering to customize FPCC's language applications for 90+ unique language varieties!
 
