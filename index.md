@@ -1,28 +1,39 @@
-I am an independent researcher in the area of linguistics and language technology, specializing in Indigenous languages and low-resource contexts. My skills and experience include natural language data analysis, backend engineering (Python, Ruby), and technical, analytical, and educational writing.
+---
+layout: default
+title: About me
+---
 
-[Research Papers](https://caforbes.github.io/papers)
+# Hi! :)
 
-Currently, I work as the technology coordinator for the First Peoples' Cultural Council of British Columbia, organizing and supporting the ongoing development of [FirstVoices](https://www.firstvoices.com/) (a language platform and archive for BC Indigenous communities). In addition to project and user support, I get to apply my skills in data analysis and engineering to customize FPCC's language applications for 90+ unique language varieties!
+I am a linguist working in the intersection of natural language analysis, software engineering, and data management. My background is in Indigenous language documentation, morphosyntax, and language technology in low-resource contexts.
 
-My linguistic research is in formal morphosyntax and field linguistic research on Indigenous languages of the Pacific Northwest and British Columbia, specializing in Gitksan (Gitxsanimx̱) and the Tsimshianic languages. My syntactic work focuses on agreement, ergativity, and the features & internal structure of noun phrases. I am involved in ongoing development of text corpora (story collections) and grammatical resources for Gitksan, as well as the design of natural language processing workflows for low-resource languages.
+* [Projects and Tech](/projects)
+* [Research Papers](/papers)
+
+As the Technology Coordinator for [FirstVoices](https://www.firstvoices.com/), I wrangled two software projects (web and keyboards), a platform/database redesign, a data migration pipeline, a user consultation project team, the user support desk, and all documentation. I also got to prototype several features to ensure that they worked for 90+ unique language varieties!
+
+As a PhD and postdoctoral researcher, I worked closely with the Gitxsanimx̱ language for 10 years. I worked regularly with elders, collected a lot of data and built a system for processing it, analyzed novel aspects of the language's morphosyntax, and published my work. I looked a lot at problems relating to agreement patterns, ergativity, the internal structure of words, and verb-first sentences. I also did a lot of teaching, mentorship, presenting, and collaboration.
 
 ## Positions
-- FirstVoices Technology Coordinator - First People's Cultural Council (current)
-- FirstVoices Technology Associate - First People's Cultural Council
-- Postdoctoral Fellow (NEH-NSF Documenting Endangered Languages Fellow, 2020-21) - University of Arizona
-- Postdoctoral Fellow (SSHRC, 2018-20) - University of Arizona
+
+* FirstVoices Technology Coordinator - First People's Cultural Council
+* FirstVoices Technology Associate - First People's Cultural Council
+* Postdoctoral Fellow (NEH-NSF Documenting Endangered Languages Fellow, 2020-21) - University of Arizona
+* Postdoctoral Fellow (SSHRC, 2018-20) - University of Arizona
 
 ## Affiliations
-- [Gitksan Research Lab @ UBC](https://blogs.ubc.ca/gitksanlab/)
-- [Association of Linguists for Documentation and Revitalization](https://aldr.org/)
+
+* [Gitksan Research Lab @ UBC](https://blogs.ubc.ca/gitksanlab/)
+* [Association of Linguists for Documentation and Revitalization](https://aldr.org/)
 
 ## Education
-- PhD, University of Toronto (2018)
-- MA, University of Toronto (2013)
-- BA (Hons.), University of British Columbia (2012)
 
-- Launch School for Web Development (2020-)
-- Institute on Collaborative Language Research (2016 - U of Alaska Fairbanks)
+* PhD, University of Toronto (2018)
+* MA, University of Toronto (2013)
+* BA (Hons.), University of British Columbia (2012)
+
+* Launch School for Web Development (BE 2021)
+* Institute on Collaborative Language Research (2016 - U of Alaska Fairbanks)
 
 ## Place
 
