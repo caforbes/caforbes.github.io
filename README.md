@@ -19,11 +19,13 @@ This is my website. Read more about me on the [website page](https://caforbes.gi
    # Bundle updated!
    ```
 
-3. Serve locally for development (go to `http://localhost:4000`):
+3. Serve locally for development:
 
    ```sh
    bundle exec jekyll serve --livereload
    ```
+
+4. Browse the locally hosted site at `http://localhost:4000`
 
 ## Todos
 
