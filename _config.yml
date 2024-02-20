@@ -3,3 +3,8 @@ title: dr. caforbes
 description: "Clarissa Forbes, PhD
 <br>
 <em>forbesc (at) alumni (dot) ubc.ca</em>"
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+      pdf: true
