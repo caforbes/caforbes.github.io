@@ -16,10 +16,12 @@ As a PhD and postdoctoral researcher, I worked closely with the Gitxsanimx̱ lan
 
 ## Positions
 
-* FirstVoices Technology Coordinator - First People's Cultural Council
-* FirstVoices Technology Associate - First People's Cultural Council
-* Postdoctoral Fellow (NEH-NSF Documenting Endangered Languages Fellow, 2020-21) - University of Arizona
-* Postdoctoral Fellow (SSHRC, 2018-20) - University of Arizona
+* First Peoples' Cultural Council
+    * FirstVoices Technology Coordinator - 2022-24
+    * FirstVoices Technology Associate - 2021-22
+* University of Arizona
+    * NEH-NSF Documenting Endangered Languages Postdoctoral Fellow - 2020-21
+    * SSHRC Postdoctoral Fellow - 2018-20
 
 ## Affiliations
 
@@ -28,12 +30,14 @@ As a PhD and postdoctoral researcher, I worked closely with the Gitxsanimx̱ lan
 
 ## Education
 
-* PhD, University of Toronto (2018)
-* MA, University of Toronto (2013)
-* BA (Hons.), University of British Columbia (2012)
+* **PhD 2018**, Linguistics. University of Toronto.
+* **MA 2013**, Linguistics. University of Toronto.
+* **BA 2012**, Linguistics, Honours. University of British Columbia.
 
-* Launch School for Web Development (BE 2021)
-* Institute on Collaborative Language Research (2016 - U of Alaska Fairbanks)
+Continued learning:
+
+* Launch School for Web Development (Core: Backend, 2021)
+* Institute on Collaborative Language Research (U of Alaska Fairbanks, 2016)
 
 ## Place
 
