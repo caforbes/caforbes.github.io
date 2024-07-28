@@ -4,11 +4,11 @@ This is my website. Read more about me on the [website page](https://caforbes.gi
 
 ## Local development
 
-1. Ensure you have Ruby 2.7 installed:
+1. Ensure you have Ruby 3.3 installed:
 
    ```sh
    ruby --version
-   # ruby 2.7.6p219 (2022-04-12 revision ...
+   # ruby 3.3.4 (2024-07-09 revision ...
    ```
 
 2. Use `bundler` to set up dependencies (run `install` or `update`):
