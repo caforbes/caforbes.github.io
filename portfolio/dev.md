@@ -8,6 +8,8 @@ title: Software engineering | Portfolio
 
 {% for post in this_tag %}
 {% if post.categories contains "portfolio" %}
-  * [{{ post.title }}]({{ post.url }}) -- {{ post.excerpt | strip_html }}
+
+* [{{ post.title }}]({{ post.url }}) -- {{ post.excerpt | strip_html }}
+
 {% endif %}
 {% endfor %}

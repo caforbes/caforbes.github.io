@@ -3,7 +3,7 @@ layout: default
 title: Clarissa Forbes
 ---
 
-## Hi!
+## Hi 👋
 
 I am a linguist💬 and programmer💻 working in the intersection of natural language analysis, software engineering, and data management.
 
@@ -15,11 +15,11 @@ My work has largely focused on resource development and research in service of I
 ## Positions
 
 * *First Peoples' Cultural Council*
-    * FirstVoices Technology Coordinator (2022-2024)
-    * FirstVoices Technology Associate (2021-2022)
+  * FirstVoices Technology Coordinator (2022-2024)
+  * FirstVoices Technology Associate (2021-2022)
 * *University of Arizona*
-    * NEH-NSF Documenting Endangered Languages Postdoctoral Fellow (2020-2021)
-    * SSHRC Postdoctoral Fellow (2018-2020)
+  * NEH-NSF Documenting Endangered Languages Postdoctoral Fellow (2020-2021)
+  * SSHRC Postdoctoral Fellow (2018-2020)
 
 ## Education & learning
 
