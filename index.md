@@ -3,31 +3,36 @@ layout: default
 title: Clarissa Forbes
 ---
 
-## Hi 👋
+## Hello! 👋
 
 I am a linguist💬 and programmer💻 working in the intersection of natural language analysis, software engineering, and data management.
 
-* [Projects 🧰](/portfolio/all)
+* [Projects 🧰](/portfolio/tags)
 * [Research Papers 📖](/papers)
 
-My work has largely focused on resource development and research in service of Indigenous language documentation. This has involved development of digital tools, language resources, and linguistic analyses. I have extensive experience with text/audio processing and data quality management.
+My work has been centered around language technology and linguistic analysis for language revitalization. Coming from a ten year career in academic research and fieldwork, in more recent times I have been happily involved in software development for web and other platforms, and continue to support communities in their own revitalization work.
+
+I'm currently looking for a new role in language technology, software engineering, or technical writing where I can make the most of my background in linguistics (data diversity, abstraction, information design) and programming (Python, Ruby, SQL, Javascript).
 
 ## Positions
 
-* *First Peoples' Cultural Council*
-  * FirstVoices Technology Coordinator (2022-2024)
-  * FirstVoices Technology Associate (2021-2022)
-* *University of Arizona*
-  * NEH-NSF Documenting Endangered Languages Postdoctoral Fellow (2020-2021)
-  * SSHRC Postdoctoral Fellow (2018-2020)
+| Date | Position |
+| ---- | -------- |
+| 2022-24 | [*FPCC*](https://fpcc.ca/) - FirstVoices Technology Coordinator |
+| 2021-22 | [*FPCC*](https://fpcc.ca/) - FirstVoices Technology Associate |
+| 2020-21 | [*U of Arizona*](https://linguistics.arizona.edu/) - NEH-NSF DEL Postdoctoral Fellow |
+| 2018-20 | [*U of Arizona*](https://linguistics.arizona.edu/) - SSHRC Postdoctoral Fellow |
+| 2017 | [*U of Toronto*](https://www.linguistics.utoronto.ca/) - Course Instructor |
 
 ## Education & learning
 
-* Launch School for Web Development (Core: Backend, 2021)
-* **PhD 2018**, University of Toronto - *Linguistics*
-* Institute on Collaborative Language Research (UAlaska, 2016)
-* **MA 2013**, University of Toronto - *Linguistics*
-* **BA 2012**, University of British Columbia - *Linguistics, Honours*
+| Date | Degree |   |
+| ---- | ------ | - |
+| 2021 |        | Backend, *Launch School for Web Development* |
+| 2018 | PhD    | Linguistics, *University of Toronto* |
+| 2015 |        | CoLang: Institute on Collaborative Language Research, *UAlaska Fairbanks* |
+| 2013 | MA     | Linguistics, *University of Toronto* |
+| 2012 | BA     | Linguistics, Honours; *University of British Columbia* |
 
 ## Place
 
