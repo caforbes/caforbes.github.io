@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BC language keyboards (FirstVoices, Keyman)
-tags: development linguistics
+tags: dev ling pm
 ---
 
 TODO

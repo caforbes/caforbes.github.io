@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interlinear gloss converter
-tags: development linguistics
+tags: dev ling
 ---
 
 A handy Flask application to convert linguistic examples into and between different styles of LaTeX markup.
