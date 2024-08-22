@@ -10,7 +10,7 @@ I am a linguist💬 and programmer💻 working in the intersection of natural la
 * [Projects 🧰](/portfolio/tags)
 * [Research Papers 📖](/papers)
 
-My work has been centered around language technology and linguistic analysis for language revitalization. Coming from a ten year career in academic research and fieldwork, in more recent times I have been happily involved in software development for web and other platforms, and continue to support communities in their own revitalization work.
+My work has been centered around language technology and linguistic analysis for Indigenous language revitalization. Coming from a ten year career in academic research and fieldwork, in more recent times I have been happily involved in software development for web and other platforms, and continue to support communities in their own revitalization work.
 
 I'm currently looking for a new role in language technology, software engineering, or technical writing where I can make the most of my background in linguistics (data diversity, abstraction, information design) and programming (Python, Ruby, SQL, Javascript).
 
