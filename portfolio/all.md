@@ -10,3 +10,5 @@ title: All projects
 * [{{ post.title }}]({{ post.url }}) -- {{ post.excerpt | strip_html }}
 
 {% endfor %}
+
+[View projects by topic](/portfolio/tags)
