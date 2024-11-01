@@ -18,6 +18,7 @@ I'm currently looking for a new role in language technology, software engineerin
 
 | Date | Position |
 | ---- | -------- |
+| 2024- | Linguistic Consultant/Data Manager (Gitxsanimx̱, Sgüüx̱s) |
 | 2022-24 | [*FPCC*](https://fpcc.ca/) - FirstVoices Technology Coordinator |
 | 2021-22 | [*FPCC*](https://fpcc.ca/) - FirstVoices Technology Associate |
 | 2020-21 | [*U of Arizona*](https://linguistics.arizona.edu/) - NEH-NSF DEL Postdoctoral Fellow |
