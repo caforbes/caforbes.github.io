@@ -4,7 +4,7 @@ This is my website. Read more about me on the [website page](https://caforbes.gi
 
 ## Local development
 
-1. Ensure you have Ruby 3.3 installed:
+1. Ensure you have Ruby 3.3.4 installed:
 
    ```sh
    ruby --version

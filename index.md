@@ -10,15 +10,16 @@ I am a linguist💬 and programmer💻 working in the intersection of natural la
 * [Projects 🧰](/portfolio/tags)
 * [Research Papers 📖](/papers)
 
-My work has been centered around language technology and linguistic analysis for Indigenous language revitalization. Coming from a ten year career in academic research and fieldwork, in more recent times I have been happily involved in software development for web and other platforms, and continue to support communities in their own revitalization work.
+My work has been centered around language technology and linguistic analysis for Indigenous language revitalization. Coming from a ten year career in academic research and fieldwork, in more recent times I have been happily involved in software development and language technology projects, and continue to support communities in their dedicated revitalization work.
 
-I'm currently looking for a new role in language technology, software engineering, or technical writing where I can make the most of my background in linguistics (data diversity, abstraction, information design) and programming (Python, Ruby, SQL, Javascript).
+I am always open to consult on Tsimshianic language matters, and am available to consult on language technology projects centering the needs of endangered language communities. Currently I do a lot of work related to keyboards, fonts, and data migration/integrity. Reach out if you have projects that would benefit from an expert in linguistics, software engineering, and/or technical writing and education!
 
 ## Positions
 
 | Date | Position |
 | ---- | -------- |
-| 2024- | Linguistic Consultant/Data Manager (Gitxsanimx̱, Sgüüx̱s) |
+| 2025- | [*Typotheque*](https://www.typotheque.com) - Linguist & Language Technologist, INAT |
+| 2024- | Linguistic Consultant & Data Specialist (Gitxsanimx̱, Sgüüx̱s) |
 | 2022-24 | [*FPCC*](https://fpcc.ca/) - FirstVoices Technology Coordinator |
 | 2021-22 | [*FPCC*](https://fpcc.ca/) - FirstVoices Technology Associate |
 | 2020-21 | [*U of Arizona*](https://linguistics.arizona.edu/) - NEH-NSF DEL Postdoctoral Fellow |
@@ -42,4 +43,6 @@ I am from Edmonds (Suquamish, Stillaguamish, Snohomish), and now live in Tucson 
 ## Affiliations
 
 * [Gitksan Research Lab @ UBC](https://blogs.ubc.ca/gitksanlab/)
+* [Indigenous North American Type @ Typotheque](https://www.typotheque.com/research/north-american-research)
+* [Advancing Indigenous Language Technologies @ UA](https://ailt.arizona.edu/)
 * [Association of Linguists for Documentation and Revitalization](https://aldr.org/)
