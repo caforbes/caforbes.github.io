@@ -6,7 +6,7 @@ tags: ling
 
 A public language learning archive for Eastern/Upriver Gitxsanimx̱.
 
-My role involves data processing, grammatical analysis, upload, and general project management (including grant writing). Major data sources include the 1975 wordlist (Hindle & Rigsby), and the 2009 Gitxsanimx̱ Speller (Smith).
+I do linguistic data processing and grammatical resource development, plus grant writing and project management as needed. Major prior data sources include the 1975 wordlist (Hindle & Rigsby), and the 2009 Gitxsanimx̱ Speller (Smith). We record and upload new recordings into a talking dictionary format.
 
 ## Links
 
